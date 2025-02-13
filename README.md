@@ -50,7 +50,7 @@ StudentName (学生姓名)
 
 1、在 Markdown 中，普通换行会被合并成单个空格
 
-2、行尾添加两个空格会触发硬换行（对应 HTML 的<!-- <br> --> 标签）
+2、行尾添加两个空格会触发硬换行（对应 HTML 的 &lt;br&gt; 标签）
 
 3、这是 GitHub Flavored Markdown (GFM) 的标准特性
 
