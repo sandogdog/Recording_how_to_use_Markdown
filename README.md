@@ -31,24 +31,20 @@ ___
 
 ### 4.在 GitHub Markdown 中要实现分行显示但不留空行，可以使用以下两种方式：
 
-方法 1：行尾双空格（推荐）
-
-<MARKDOWN>
+方法 1：行尾双空格（推荐）  
 学生表 (Student)  
 StudentID (学生ID，主键)  
 StudentName (学生姓名)  
-方法 2：HTML 换行标签
 
-<MARKDOWN>
+方法 2：HTML 换行标签  
 学生表 (Student)<br>
 StudentID (学生ID，主键)<br>
 StudentName (学生姓名)
-两种方式效果相同，最终渲染效果为：
-学生表 (Student)
 
-StudentID (学生ID，主键)
-
-StudentName (学生姓名)
+两种方式效果相同，最终渲染效果为：  
+学生表 (Student)  
+StudentID (学生ID，主键)  
+StudentName (学生姓名)  
 
 原理说明：
 
